@@ -1,0 +1,12 @@
+  <div class="container"*ngFor="let item of products">
+    <div class="card" routerLink="/details/{{item.id}}"  >
+      <div class="image">
+        <img src="{{ item.image }}" alt="Avatar"  />
+      </div>
+      <div class="text">
+        <h4>{{ item.title }}</h4>
+        <p>{{ item.description }}</p>
+      </div>
+    </div>
+  </div>
+

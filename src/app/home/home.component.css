@@ -1,0 +1,44 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.landing {
+    background-image: url(../../assets/imgs/cy.jpg);
+    background-size: cover;
+    height: calc(100vh - 94.5px);
+
+}
+
+.landing .container {
+    height: 100%;
+    display: grid;
+    place-content: center;
+    color: white;
+    text-align: center;
+
+}
+.landing .container h1 {
+font-size: 50px;
+margin-bottom: 17px;
+}
+.landing .container p {
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+.landing .container button {
+    padding: 10px 20px;
+    border-radius: 5px;
+    border: none;
+    background-color: #56a9b4;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    margin-top: 10px;
+    width: 200px;
+    text-align: center;
+    
+
+    
+}
