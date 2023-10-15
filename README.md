@@ -26,7 +26,4 @@ Welcome to Shopify, an online store project built with Angular, TypeScript, HTML
 - Contributions are welcome!
 - If you encounter any issues or have suggestions, please submit an issue or pull request.
 
-## Credits
-- Created by Lamya Eltatawy.
-- Product images sourced from [www.freepic.com , https://fakestoreapi.com/products].
-- Angular framework: Angular
+
